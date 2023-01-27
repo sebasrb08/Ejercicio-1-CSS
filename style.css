@@ -1,0 +1,56 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.contenedor{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+table{
+    border-collapse: collapse;
+    text-align: center;
+}
+th{
+    background-color: rgba(41, 228, 166, 0.932);
+    padding: 5px ;
+    height: 20px;
+    border:solid 1px black ;
+}
+td{
+    border:dashed 1px black ;
+    padding: 5px ;
+    height: 20px;    
+   
+}
+
+.fill1:hover {
+    background-color: rgb(24, 226, 24);
+    cursor: cell;
+}
+.fill2:hover {
+    background-color: rgb(24, 226, 24);
+    cursor: cell;
+}.fill3:hover {
+    background-color: rgb(24, 226, 24);
+    cursor: cell;
+}.fill4:hover {
+    background-color: rgb(24, 226, 24);
+    cursor: cell;
+}.fill5:hover {
+    background-color: rgb(24, 226, 24);
+    cursor: cell;
+}
+.fill6:hover {
+    background-color: rgb(24, 226, 24);
+    cursor: cell;
+}.fill7:hover {
+    background-color: rgb(24, 226, 24);
+    cursor: cell;
+}.fill8:hover {
+    background-color: rgb(24, 226, 24);
+    cursor: cell;
+}
